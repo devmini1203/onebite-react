@@ -1,13 +1,7 @@
 import "./App.css";
-import Register from "./components/Register";
-import HookExam from "./components/HookExam";
 
 function App() {
-  return (
-    <>
-      <HookExam />
-    </>
-  );
+  return <>카운터 앱</>;
 }
 
 export default App;
